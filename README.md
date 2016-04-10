@@ -13,7 +13,6 @@
 * All input error-trapped through Console
 * Fully documented
 
-
 ##How to run:
 * Download the hsa Console library and run `TowerOfHanoi.java`
 
